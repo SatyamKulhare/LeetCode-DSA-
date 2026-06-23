@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
