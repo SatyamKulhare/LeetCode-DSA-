@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
