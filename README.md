@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
