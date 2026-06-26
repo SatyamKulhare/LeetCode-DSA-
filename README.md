@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0217-contains-duplicate) |
+| [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 ## Segment Tree
 |  |
 | ------- |
@@ -68,5 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
