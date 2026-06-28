@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0217-contains-duplicate) |
 | [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
