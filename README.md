@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0217-contains-duplicate) |
 | [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [1480-running-sum-of-1d-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
