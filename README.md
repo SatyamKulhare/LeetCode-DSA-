@@ -30,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0217-contains-duplicate) |
 | [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 ## Segment Tree
 |  |
@@ -84,6 +86,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -91,6 +94,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SatyamKulhare/LeetCode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 ## String Matching
 |  |
